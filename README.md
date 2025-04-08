@@ -1,6 +1,9 @@
 <h2 align="left">Hi👋! My name is Germano</h2>
 
+
 ###
+<br clear="both">
+
 
 <div align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=germanao&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&custom_title=Germano%20Stats" height="135" alt="stats graph"  />
