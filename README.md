@@ -22,8 +22,8 @@
 </p>
 
 - Led high-impact projects (regulatory & SaaS automation)
-- Seriously boosted system performance (by 75%!)  and slashed frontend dev time (by 90%!)
-  - Plus point: Using **Object-oriented programming** 🤯🤯🤯
+- Seriously boosted some systems performance and slashed frontend dev time
+  - Plus point: Using **Object-oriented programming** 🤯
 - Built things end-to-end, like a generative AI SaaS app
 - Built toolkit for developers 😎😎😎
 
