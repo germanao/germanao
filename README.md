@@ -15,7 +15,7 @@
 
 
 <h3 align="center">Welcome to my profile</h3>
-<p>I got a few things right, got a lot wrong, won a lot and lost a lot too!</p>
+<p>I got a few things right, got a lot wrong, wrote a lot of state-of-the-art code and wrote a lot of bad code too!</p>
 
 <p>I am proud of what I have accomplished and learned how to do well! 
 <br>Here are some of them:
