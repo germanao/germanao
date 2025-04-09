@@ -25,7 +25,7 @@
 - Seriously boosted system performance (by 75%!)  and slashed frontend dev time (by 90%!)
   - Plus point: Using **Object-oriented programming** 🤯🤯🤯
 - Built things end-to-end, like a generative AI SaaS app
-- Built toolkits for developers 😎😎😎
+- Built toolkit for developers 😎😎😎
 
 #
 
